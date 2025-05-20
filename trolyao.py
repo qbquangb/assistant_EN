@@ -20,7 +20,6 @@ while True:
 
 	print("Robot: ...")
 	
-	
 	if you == "":
 		robot_brain = "I can't hear you, try again"
 	elif "hello" in you:
